@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "name": "Teste QI",
+  "description": "Teste seu QI com um jogo simples e divertido!",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icon-16.png",
+    "32": "/icon-32.png",
+    "114": "/icon-114.png",
+    "128": "/icon-128.png",
+    "114": "/icon-256.png"
+  },
+  "developer": {
+    "name": "Elton Luciano"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "pt-br"
+}
